@@ -1,31 +1,42 @@
-<!-- $theme: default -->
-<!-- page_number: true -->
-<!-- $size: 16:9 -->
+<!-- $theme: gaia -->
+<!-- template: gaia -->
+<!-- $size: 4:3 -->
+## Integrated Analysis of Data from Automated Instruments
 
-# Integrated Analysis of Data from Automated Instruments
+#### A case study in repurposing modern "DevOps" tools for real-time science
+<br>
 
-## A case study in re-purposing modern "devops" tools for realtime science
+###### Vaughn Iverson¹ ², Chris Berthiaume¹, Francois Ribalet¹, Ginger Armbrust¹
 
-#### Vaughn Iverson¹ ², Chris Berthiaume¹, Francois Ribalet¹, Ginger Armbrust¹ 
-##### University of Washington
+University of Washington
+<small>
 ¹ School of Oceanography
 ² eScience Institute
+</small>
 
 ---
-
+<!-- page_number: true -->
 # A bit about me...
 
 ---
+# ...and our lab
 
-# And our lab / project
+---
+# DevOps
+
+<div style="text-align:center"><img style="background-color:white; border:2vw solid white" width=60% src="Devops.svg"/></div>
+
+<br/>
+<div style="text-align:center background-color:white">
+This is some text about this, that or the other.
+
+Or somethin' else.
+
+</div>
 
 ---
 
-# Devops
-
----
-
-# Sciops?
+# SciOps? <span style="font-size:14pt">*(not PsyOps!)*</span>
 
 ---
 
