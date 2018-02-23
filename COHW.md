@@ -162,47 +162,30 @@ Also popular: Promethius, Grafana
 <small>influxdata.com</small>
 
 ---
-
 ##### Architecture
 
 <div style="text-align:center"><img style="background-color:white; border:2vw solid white" width=85% src="architecture.svg"/></div>
 
+---
+# Monitoring tools
+
+<div style="text-align:center"><img style="background-color:white; border:2vw solid white" width=30% src="monitoring.svg"/></div>
+
+Popular "stacks" of OSS monitoring tools:
+* "**ELK**": **E**lasticsearch, **L**ogstash, **K**ibana
+* "**TICK**": **T**elegraf, ==**I**nfluxDB==, **C**hronograf, **K**apacitor
+
+Also popular: Promethius, ==Grafana== 
 
 ---
-
-# Consul / Nomad
-
----
-
-# Minio
-
----
-
-# Restic
-
----
-
-# Custom Upload
-
----
-
 # InfluxDB
 
 ---
-
 # Grafana
 
 ---
-
 # Lessons / Takeaways
 
-## Time
-
-## Rsync
-
-## Maps
-
 ---
-
 # Conclusion
 
