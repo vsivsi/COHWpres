@@ -153,7 +153,7 @@ Popular "stacks" of OSS monitoring tools:
 * "**ELK**": **E**lasticsearch, **L**ogstash, **K**ibana
 * "**TICK**": **T**elegraf, **I**nfluxDB, **C**hronograf, **K**apacitor
 
-Also popular: Promethius, Grafana 
+Also popular: Promethius, Graphite, Grafana 
 
 ---
 # What are all of these things?
@@ -175,17 +175,46 @@ Popular "stacks" of OSS monitoring tools:
 * "**ELK**": **E**lasticsearch, **L**ogstash, **K**ibana
 * "**TICK**": **T**elegraf, ==**I**nfluxDB==, **C**hronograf, **K**apacitor
 
-Also popular: Promethius, ==Grafana== 
+Also popular: Promethius, Graphite, ==Grafana== 
 
 ---
-# InfluxDB
+## InfluxDB
+
+* Open Source DB Optimized for timeseries data
+* Simplified table structure:
+     * Metrics
+     * Measurements
+     * Tags
+* Familiar "SQL-like" query language
+     * Features simplifying time-based calculations  
+---
+## Grafana
+
+* Complete Open Source Dashboard Server
+    * Visualization "Panels" are all plug-ins
+    * Supports a wide variety of DB backends
+    * Most mature and flexible choice
+* We added:
+    * XY plot plugin
+    * Map plugin (based on leaflet) and tile server
+* Create/edit/share dashboards without coding
+    * (maybe a bit of InfluxQL...)
 
 ---
-# Grafana
+## Demo / Resources
+
+Gradients 2.0 Cruise Dashboard: [https://gradientscruise.com]()
+
+Grafana Dashboard Playground: [http://play.grafana.org]()
+
+InfluxDB: [http://influxdata.com]()
+
+Restic: [https://restic.net]()
+
+Minio: [https://minio.io]()
+
+Consul/Nomad: [https://www.hashicorp.com]()
 
 ---
-# Lessons / Takeaways
-
----
-# Conclusion
+# Thanks!
 
