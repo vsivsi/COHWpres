@@ -48,7 +48,7 @@ University of Washington
 
 ---
 # Gradients Cruise
-<img width=70% align=right style="transform: rotate(180deg)" src="instruments.jpg"/>
+<img width=70% align=right src="instruments.jpg"/>
 
 #### Now with 
 ## MOAR 
