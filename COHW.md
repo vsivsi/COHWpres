@@ -18,8 +18,12 @@ University of Washington
 <!-- page_number: true -->
 # A bit about me...
 
+<div style="text-align:center"><img width=60% src="metagenome.gif"/></div>
+
 ---
 # ...and our lab
+
+<div style="text-align:center"><img width=85% src="labretreat_2015.jpg"/></div>
 
 ---
 # SeaFlow: <span style="font-size:22pt">*"A census for the very small"*</span>
