@@ -140,6 +140,11 @@ Huh? How do we do that?
 <div style="text-align:center"><img style="background-color:white; border:2vw solid white" width=90% src="Devops-toolchain-annotated.svg"/></div>
 
 ---
+# SciOps? <span style="font-size:14pt">*(not PsyOps!)*</span>
+
+### Or perhaps: *ResearchOps*
+
+---
 # Monitoring tools
 
 <div style="text-align:center"><img style="background-color:white; border:2vw solid white" width=30% src="monitoring.svg"/></div>
@@ -148,20 +153,20 @@ Popular "stacks" of OSS monitoring tools:
 * "**ELK**": **E**lasticsearch, **L**ogstash, **K**ibana
 * "**TICK**": **T**elegraf, **I**nfluxDB, **C**hronograf, **K**apacitor
 
-Popular alternatives: Promethius, Grafana 
+Also popular: Promethius, Grafana 
 
 ---
-# SciOps? <span style="font-size:14pt">*(not PsyOps!)*</span>
+# What are all of these things?
 
-### Or perhaps: *ResearchOps*
-
----
-
-# So we needed to bring a cluster...
+<div style="text-align:center"><img style="background-color:white; border:2vw solid white" width=70% src="Tick-Stack-Complete.png"/></div>
+<small>influxdata.com</small>
 
 ---
 
-# Architecture
+##### Architecture
+
+<div style="text-align:center"><img style="background-color:white; border:2vw solid white" width=85% src="architecture.svg"/></div>
+
 
 ---
 
