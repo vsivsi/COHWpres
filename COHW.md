@@ -213,9 +213,9 @@ Also popular: Promethius, Graphite, ==Grafana==
 ---
 ## Demo / Resources
 
-Gradients 2.0 Cruise Dashboard: [https://gradientscruise.com]()
+Gradients Dashboard: [https://gradientscruise.com]()
 
-Grafana Dashboard Playground: [http://play.grafana.org]()
+Grafana Playground: [http://play.grafana.org]()
 
 InfluxDB: [http://influxdata.com]()
 
@@ -224,6 +224,8 @@ Restic: [https://restic.net]()
 Minio: [https://minio.io]()
 
 Consul/Nomad: [https://www.hashicorp.com]()
+
+This talk: [https://github.com/vsivsi/COHWpres]()
 
 ---
 # Thanks!
