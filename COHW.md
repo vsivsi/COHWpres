@@ -25,12 +25,17 @@ University of Washington
 # SeaFlow: <span style="font-size:22pt">*"A census for the very small"*</span>
 ##### 
 
-<div style="text-align:center"><img width=80% src="seaflow_paper.png"/></div>
-
+<div style="text-align:center"><img width=85% src="seaflow_paper.png"/></div>
 <br/>
+<img width=51% align=left src="seaflow_diagram.jpg"/>
+<img width=40% align=right src="seaflow_installed.jpg"/>
 
-<img width=40% align=left src="seaflow_installed.jpg"/>
-<img width=51% align=right src="seaflow_diagram.jpg"/>
+---
+## Realtime Integrated Monitoring
+
+<div style="text-align:center"><img width=90% src="seaflowviz.png"/></div>
+
+[http://armbrustlab.github.io/seaflowviz3](http://armbrustlab.github.io/seaflowviz3)
 
 ---
 # DevOps
