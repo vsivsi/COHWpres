@@ -23,7 +23,7 @@ University of Washington
 ---
 # ...and our lab
 
-<div style="text-align:center"><img width=85% src="Labretreat_2015.JPG"/></div>
+<div style="text-align:center"><img width=85% src="LabRetreat_2015.JPG"/></div>
 
 ---
 # SeaFlow: <span style="font-size:22pt">*"A census for the very small"*</span>
@@ -169,7 +169,7 @@ Also popular: Promethius, Graphite, Grafana
 ---
 # Monitoring tools
 
-<div style="text-align:center"><img style="background-color:white; border:2vw solid white" width=30% src="monitoring.svg"/></div>
+<div style="text-align:center"><img style="background-color:white; border:2vw solid white" width=30% src="Monitoring.svg"/></div>
 
 Popular "stacks" of OSS monitoring tools:
 * "**ELK**": **E**lasticsearch, **L**ogstash, **K**ibana
