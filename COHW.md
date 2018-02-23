@@ -42,6 +42,78 @@ University of Washington
 [http://armbrustlab.github.io/seaflowviz3](http://armbrustlab.github.io/seaflowviz3)
 
 ---
+# Gradients Cruise
+<div style="text-align:center"><img width=50% src="simons.png"/></div>
+<div style="text-align:center"><img width=70% src="main-image1.jpg"/></div>
+
+---
+# Gradients Cruise
+<img width=70% align=right style="transform: rotate(180deg)" src="instruments.jpg"/>
+
+#### Now with 
+## MOAR 
+#### automated
+#### instruments!
+
+---
+# Gradients 2.0
+
+Integrate all the things!
+**IT** will be Great!  Build **IT**!
+
+---
+# Gradients 2.0
+
+==Integrate all the things!
+**IT** will be Great!  Build **IT**!==
+
+*Uh, what is "IT" exactly, again?*
+
+---
+# Gradients 2.0
+
+==Integrate all the things!
+**IT** will be Great!  Build **IT**!==
+
+==*Uh, what is "IT" exactly, again?*==
+
+Oh, you know, that great thing you did for SeaFlow...
+... but with **MOAR** Instruments!
+Shouldn't be too hard, right? When will **IT** be done?
+
+---
+# Gradients 2.0
+
+==Integrate all the things!
+**IT** will be Great!  Build **IT**!==
+
+==*Uh, what is "IT" exactly, again?*==
+
+==Oh, you know, that great thing you did for SeaFlow...
+... but with **MOAR** Instruments!
+Shouldn't be too hard, right? When will **IT** be done?==
+
+*Um... No. That's not how this works.* 
+*We're going to need agree on the requirements first.*
+
+---
+# Gradients 2.0
+
+==Integrate all the things!
+**IT** will be Great!  Build **IT**!==
+
+==*Uh, what is "IT" exactly, again?*==
+
+==Oh, you know, that great thing you did for SeaFlow...
+... but with **MOAR** Instruments!
+Shouldn't be too hard, right? When will **IT** be done?==
+
+==*Um... No. That's not how this works.* 
+*We're going to need agree on the requirements first.*==
+
+Huh? How do we do that?
+
+---
 # DevOps
 
 <div style="text-align:center"><img style="background-color:white; border:2vw solid white" width=55% src="Devops.svg"/></div>
@@ -70,29 +142,21 @@ Popular alternatives: Promethius, Grafana
 ---
 # SciOps? <span style="font-size:14pt">*(not PsyOps!)*</span>
 
-
 ### Or perhaps: *ResearchOps*
 
----
-# SeaFlow
 
 ---
 
-# Initial Seaflow Website
+# Gradients 2.0 Requirements?
 
-## Gradients
-
----
-
-# Gradients 2.0
-
-## Moar instruments!
-
----
-
-# Integrate all the things!
-
-## Requirements
+* Capture as much data as possible, as it's generated
+    * From both instruments and experiental results 
+* Enable simple, realtime interactive plotting
+    * Customizable on the fly by scientists
+* Tolerant of certain  hardware and network failures
+    * Within defined limits  
+* Same capabilities available on ship and shore
+    * But, lower resolution data on shore 
 
 ---
 
