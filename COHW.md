@@ -22,9 +22,20 @@ University of Washington
 # ...and our lab
 
 ---
+# SeaFlow: <span style="font-size:22pt">*"A census for the very small"*</span>
+##### 
+
+<div style="text-align:center"><img width=80% src="seaflow_paper.png"/></div>
+
+<br/>
+
+<img width=40% align=left src="seaflow_installed.jpg"/>
+<img width=51% align=right src="seaflow_diagram.jpg"/>
+
+---
 # DevOps
 
-<div style="text-align:center"><img style="background-color:white; border:2vw solid white" width=60% src="Devops.svg"/></div>
+<div style="text-align:center"><img style="background-color:white; border:2vw solid white" width=55% src="Devops.svg"/></div>
 
 ---
 # DevOps
@@ -39,11 +50,13 @@ University of Washington
 ---
 # Monitoring tools
 
-<div style="text-align:center"><img style="background-color:white; border:2vw solid white" width=40% src="monitoring.svg"/></div>
+<div style="text-align:center"><img style="background-color:white; border:2vw solid white" width=30% src="monitoring.svg"/></div>
 
-Two popular "stacks" of monitoring tools:
-1. "**ELK**": **E**lasticsearch, **L**ogstash, **K**ibana
-2. "**TICK**": **T**elegraf, **I**nfluxDB, **C**hronograf, **K**apacitor
+Popular "stacks" of OSS monitoring tools:
+* "**ELK**": **E**lasticsearch, **L**ogstash, **K**ibana
+* "**TICK**": **T**elegraf, **I**nfluxDB, **C**hronograf, **K**apacitor
+
+Popular alternatives: Promethius, Grafana 
 
 ---
 # SciOps? <span style="font-size:14pt">*(not PsyOps!)*</span>
