@@ -26,20 +26,32 @@ University of Washington
 
 <div style="text-align:center"><img style="background-color:white; border:2vw solid white" width=60% src="Devops.svg"/></div>
 
-<br/>
-<div style="text-align:center background-color:white">
-This is some text about this, that or the other.
+---
+# DevOps
 
-Or somethin' else.
-
-</div>
+<div style="text-align:center"><img style="background-color:white; border:2vw solid white" width=80% src="Devops-toolchain.svg"/></div>
 
 ---
+# DevOps
 
+<div style="text-align:center"><img style="background-color:white; border:2vw solid white" width=90% src="Devops-toolchain-annotated.svg"/></div>
+
+---
+# Monitoring tools
+
+<div style="text-align:center"><img style="background-color:white; border:2vw solid white" width=40% src="monitoring.svg"/></div>
+
+Two popular "stacks" of monitoring tools:
+1. "**ELK**": **E**lasticsearch, **L**ogstash, **K**ibana
+2. "**TICK**": **T**elegraf, **I**nfluxDB, **C**hronograf, **K**apacitor
+
+---
 # SciOps? <span style="font-size:14pt">*(not PsyOps!)*</span>
 
----
 
+### Or perhaps: *ResearchOps*
+
+---
 # SeaFlow
 
 ---
