@@ -23,16 +23,16 @@ University of Washington
 ---
 # ...and our lab
 
-<div style="text-align:center"><img width=85% src="labretreat_2015.jpg"/></div>
+<div style="text-align:center"><img width=85% src="Labretreat_2015.JPG"/></div>
 
 ---
 # SeaFlow: <span style="font-size:22pt">*"A census for the very small"*</span>
 ##### 
 
-<div style="text-align:center"><img width=85% src="seaflow_paper.png"/></div>
+<div style="text-align:center"><img width=85% src="Seaflow_paper.png"/></div>
 <br/>
 <img width=51% align=left src="seaflow_diagram.jpg"/>
-<img width=40% align=right src="seaflow_installed.jpg"/>
+<img width=40% align=right src="Seaflow_installed.jpg"/>
 
 ---
 ## Realtime Integrated Monitoring
@@ -43,12 +43,12 @@ University of Washington
 
 ---
 # Gradients Cruise
-<div style="text-align:center"><img width=50% src="simons.png"/></div>
+<div style="text-align:center"><img width=50% src="Simons.png"/></div>
 <div style="text-align:center"><img width=70% src="main-image1.jpg"/></div>
 
 ---
 # Gradients Cruise
-<img width=70% align=right src="instruments.jpg"/>
+<img width=70% align=right src="instruments.JPG"/>
 
 #### Now with 
 ## MOAR 
@@ -147,7 +147,7 @@ Huh? How do we do that?
 ---
 # Monitoring tools
 
-<div style="text-align:center"><img style="background-color:white; border:2vw solid white" width=30% src="monitoring.svg"/></div>
+<div style="text-align:center"><img style="background-color:white; border:2vw solid white" width=30% src="Monitoring.svg"/></div>
 
 Popular "stacks" of OSS monitoring tools:
 * "**ELK**": **E**lasticsearch, **L**ogstash, **K**ibana
@@ -207,8 +207,8 @@ Also popular: Promethius, Graphite, ==Grafana==
 * When people see the value, they will put data in
 * Integrated realtime data aided in making decisions
 
-<img width=45% align=left src="langseth.jpg"/>
-<img width=45% align=right src="people.jpg"/>
+<img width=45% align=left src="langseth.JPG"/>
+<img width=45% align=right src="people.JPG"/>
  
 ---
 ## Demo / Resources
