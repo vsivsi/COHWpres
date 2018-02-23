@@ -201,6 +201,16 @@ Also popular: Promethius, Graphite, ==Grafana==
     * (maybe a bit of InfluxQL...)
 
 ---
+## What did we learn?
+
+* Repurposing delivered functionality and polish
+* When people see the value, they will put data in
+* Integrated realtime data aided in making decisions
+
+<img width=45% align=left src="langseth.jpg"/>
+<img width=45% align=right src="people.jpg"/>
+ 
+---
 ## Demo / Resources
 
 Gradients 2.0 Cruise Dashboard: [https://gradientscruise.com]()
