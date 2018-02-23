@@ -114,6 +114,17 @@ Shouldn't be too hard, right? When will **IT** be done?==
 Huh? How do we do that?
 
 ---
+### Gradients 2.0 Requirements Summarized:
+* Capture as much data as possible, as it's generated
+    * From both instruments and experiental results 
+* Enable simple, realtime interactive plotting
+    * Customizable on the fly by scientists
+* Tolerate certain hardware and network failures
+    * Within defined limits  
+* Same capabilities available on ship and shore
+    * But, lower resolution data on shore 
+
+---
 # DevOps
 
 <div style="text-align:center"><img style="background-color:white; border:2vw solid white" width=55% src="Devops.svg"/></div>
@@ -143,20 +154,6 @@ Popular alternatives: Promethius, Grafana
 # SciOps? <span style="font-size:14pt">*(not PsyOps!)*</span>
 
 ### Or perhaps: *ResearchOps*
-
-
----
-
-# Gradients 2.0 Requirements?
-
-* Capture as much data as possible, as it's generated
-    * From both instruments and experiental results 
-* Enable simple, realtime interactive plotting
-    * Customizable on the fly by scientists
-* Tolerant of certain  hardware and network failures
-    * Within defined limits  
-* Same capabilities available on ship and shore
-    * But, lower resolution data on shore 
 
 ---
 
